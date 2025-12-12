@@ -1,11 +1,11 @@
 # Dossier de Projet RNCP 5 – Smart Trading Bot
 
 > **Titre du projet :** Smart Trading Bot – Système de trading algorithmique automatisé pour crypto-monnaies  
-> **Candidat :** [Votre Nom]  
+> **Candidat :** MOLEINS Jules  
 > **Titre visé :** Développeur Web et Web Mobile (DWWM – RNCP niveau 5)  
 > **Établissement :** Holberton School, France  
-> **Période :** Octobre 2024 - Décembre 2025  
-> **Date de soumission :** 11 décembre 2025  
+> **Période :** Février 2024 - Novembre 2025  
+> **Date de soumission :** Mars 2025  
 
 ---
 
